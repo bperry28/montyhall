@@ -1,0 +1,14 @@
+Package: montyhall
+Title: Plays the Monty Hall game
+Version: 0.0.0.9000
+Authors@R: 
+    person("Beth", "Perry", , "beth.perry@asu.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Defines each function in order to play the Monty Hall game where a contestant chooses a door to win a prize
+Depends:
+    dplyr
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+LazyData: true
+RoxygenNote: 7.3.1
